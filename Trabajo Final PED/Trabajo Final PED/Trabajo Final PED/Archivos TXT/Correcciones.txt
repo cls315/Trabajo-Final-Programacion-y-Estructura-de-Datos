@@ -1,2 +1,0 @@
-1|sayavedra|camila|2|True,False,True,False
-2|Sayavedra|Camila|3|True,True,False,True

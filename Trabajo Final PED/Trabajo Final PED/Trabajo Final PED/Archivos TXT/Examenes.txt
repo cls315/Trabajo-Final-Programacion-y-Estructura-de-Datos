@@ -1,2 +1,0 @@
-1|10/08/2025|Lengua y Literatura|UAI|Literatura|13,14,15,16
-2|06/08/2025|Matemáticas|UAI|Ingenieria en Sistemas|1,2,3,4
