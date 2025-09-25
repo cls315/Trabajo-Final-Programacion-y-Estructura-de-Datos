@@ -1,0 +1,70 @@
+=== EXAMEN GENERADO ===
+ID Examen: 1
+Fecha: 10/08/2025
+Universidad: UAI
+Carrera: Literatura
+Asignatura: Lengua y Literatura
+
+Preguntas:
+
+Pregunta 1 (ID: 13): ¿Qué tiempo verbal expresa una acción futura respecto al momento del habla?
+   1. Futuro simple
+   2. Presente
+   3. Pretérito perfecto
+   4. Condicional
+
+Pregunta 2 (ID: 14): ¿A qué género pertenece 'Don Quijote de la Mancha'?
+   1. Novela
+   2. Poesía
+   3. Teatro
+   4. Ensayo
+
+Pregunta 3 (ID: 15): ¿Quién escribió 'Romeo y Julieta'?
+   1. William Shakespeare
+   2. Miguel de Cervantes
+   3. Homero
+   4. Dante Alighieri
+
+Pregunta 4 (ID: 16): ¿Qué figura literaria es 'el murmullo de las olas'?
+   1. Onomatopeya
+   2. Metáfora
+   3. Hipérbole
+   4. Personificación
+
+=================================
+
+=== EXAMEN GENERADO ===
+ID Examen: 2
+Fecha: 06/08/2025
+Universidad: UAI
+Carrera: Ingenieria en Sistemas
+Asignatura: Matemáticas
+
+Preguntas:
+
+Pregunta 1 (ID: 1): ¿Cuánto es 15 + 23?
+   1. 38
+   2. 35
+   3. 42
+   4. 28
+
+Pregunta 2 (ID: 2): ¿Cuál es el resultado de 3/4 + 1/2?
+   1. 5/4
+   2. 4/6
+   3. 1
+   4. 2/3
+
+Pregunta 3 (ID: 3): Resuelve para x: 2x + 5 = 15
+   1. x = 5
+   2. x = 10
+   3. x = 7.5
+   4. x = -5
+
+Pregunta 4 (ID: 4): Factoriza: x² - 9
+   1. (x+3)(x-3)
+   2. (x-3)²
+   3. (x+9)(x-1)
+   4. No se puede factorizar
+
+=================================
+

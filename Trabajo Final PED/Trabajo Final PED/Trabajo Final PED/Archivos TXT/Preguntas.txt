@@ -1,0 +1,17 @@
+1|¿Cuánto es 15 + 23?|38|35|42|28|38|Matemáticas|1|Operaciones básicas
+2|¿Cuál es el resultado de 3/4 + 1/2?|5/4|4/6|1|2/3|5/4|Matemáticas|1|Fracciones
+3|Resuelve para x: 2x + 5 = 15|x = 5|x = 10|x = 7.5|x = -5|x = 5|Matemáticas|2|Ecuaciones lineales
+4|Factoriza: x² - 9|(x+3)(x-3)|(x-3)²|(x+9)(x-1)|No se puede factorizar|(x+3)(x-3)|Matemáticas|2|Factorización
+5|¿Qué civilización se desarrolló entre los ríos Tigris y Éufrates?|Mesopotamia|Egipto|India|China|Mesopotamia|Historia|1|Civilizaciones fluviales
+6|¿Qué filósofo fue maestro de Alejandro Magno?|Aristóteles|Platón|Sócrates|Pitágoras|Aristóteles|Historia|1|Grecia clásica
+7|¿Qué grupo social era el más numeroso en el feudalismo?|Siervos|Nobles|Reyes|Clérigos|Siervos|Historia|2|Feudalismo
+8|¿Cuántas Cruzadas principales hubo?|8|5|3|12|8|Historia|2|Cruzadas
+9|¿Qué orgánulo es conocido como la 'central energética' de la célula?|Mitocondria|Núcleo|Ribosoma|Cloroplasto|Mitocondria|Ciencias Naturales|1|Célula
+10|¿Qué científico es considerado el padre de la genética?|Gregor Mendel|Charles Darwin|Louis Pasteur|James Watson|Gregor Mendel|Ciencias Naturales|1|Genética
+11|¿Qué ley establece que 'a toda acción le corresponde una reacción igual y opuesta'?|Tercera Ley de Newton|Primera Ley de Newton|Ley de Ohm|Ley de Gravitación|Tercera Ley de Newton|Ciencias Naturales|2|Movimiento
+12|¿Qué tipo de energía tiene un objeto debido a su movimiento?|Cinética|Potencial|Térmica|Química|Cinética|Ciencias Naturales|2|Energía
+13|¿Qué tiempo verbal expresa una acción futura respecto al momento del habla?|Futuro simple|Presente|Pretérito perfecto|Condicional|Futuro simple|Lengua y Literatura|1|Verbos
+14|¿A qué género pertenece 'Don Quijote de la Mancha'?|Novela|Poesía|Teatro|Ensayo|Novela|Lengua y Literatura|1|Géneros literarios
+15|¿Quién escribió 'Romeo y Julieta'?|William Shakespeare|Miguel de Cervantes|Homero|Dante Alighieri|William Shakespeare|Lengua y Literatura|2|Autores clásicos
+16|¿Qué figura literaria es 'el murmullo de las olas'?|Onomatopeya|Metáfora|Hipérbole|Personificación|Onomatopeya|Lengua y Literatura|2|Figuras literarias
+17|¿Cuanto es 2x5?|2|6|10|15|10|Matematica|Algebra|Multiplacion
